@@ -1,0 +1,16 @@
+# Product controller translations
+leftMenu.products: 'Products'
+
+createProductTitle: 'Create product'
+editProductTitle: 'Edit product'
+
+name: 'Name'
+description: 'Description'
+measure: 'Measure unit'
+
+measure.kg: 'kg'
+measure.liter: 'l'
+measure.piece: 'br'
+measure.squareMeter: 'm2'
+measure.cubicMeter: 'm3'
+measure.all: 'All measures' 

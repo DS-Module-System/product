@@ -1,0 +1,16 @@
+# Product controller translations
+leftMenu.products: 'Продукти'
+
+createProductTitle: 'Създаване на продукт'
+editProductTitle: 'Редактиране на продукт'
+
+name: 'Име'
+description: 'Описание'
+measure: 'Мярна единица'
+
+measure.kg: 'кг'
+measure.liter: 'л'
+measure.piece: 'бр'
+measure.squareMeter: 'м2'
+measure.cubicMeter: 'м3'
+measure.all: 'Всички мерки' 
